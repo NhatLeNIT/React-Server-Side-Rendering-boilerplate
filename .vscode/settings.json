@@ -4,5 +4,4 @@
         "*.js": "javascriptreact"
     },
     "editor.tabSize": 4,
-    "eslint.enable": false,
 }
