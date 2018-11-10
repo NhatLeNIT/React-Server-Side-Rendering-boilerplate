@@ -1,0 +1,8 @@
+{
+    "files.defaultLanguage": "javascriptreact",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.tabSize": 4,
+    "eslint.enable": false,
+}
